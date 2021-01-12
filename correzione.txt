@@ -1,0 +1,7 @@
+telefono è una stringa ed è nullable
+
+
+altre cose tipo genere si puo mettere numero per fare tipo:
+0: maschio
+1: femmina
+2: altro
